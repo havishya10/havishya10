@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Havishya, and I am a budding frontend developer from India.<br><br>- 📚 I'm currently learning MERN Stack and Gen AI Engineering, although dabbling in graphic and UI design to train my design eye.<br>- I like to build meaningful, lasting projects that are user-centric <br>- ⚡ In my free time, I sit and contemplate life</p>
+<p align="left">I'm Havishya, and I am a budding frontend developer from India.<br><br>- 📚 I'm currently learning MERN Stack and Gen AI Engineering, although dabbling in graphic and UI design to train my design eye.<br>- 👩🏻‍💻 I like to build meaningful, lasting projects that are user-centric <br>- ⚡ In my free time, I sit and contemplate life</p>
 
 ###
 
