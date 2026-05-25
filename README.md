@@ -23,9 +23,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<p align="center">
-  <i>I have recently migrated my active development over to my new profile: <b><a href="https://github.com/HavishyaVally">@HavishyaVally</a></b>. Let's connect there!</i>
-</p>
 
 ###
 
