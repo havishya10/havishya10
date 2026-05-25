@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/havishyavally/" target="_blank">
+  <a href="https://linkedin.com/in/havishyavally/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/fulminare.10" target="_blank">
@@ -22,6 +22,10 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
+
+<p align="center">
+  <i>I have recently migrated my active development over to my new profile: <b><a href="https://github.com/HavishyaVally">@HavishyaVally</a></b>. Let's connect there!</i>
+</p>
 
 ###
 
